@@ -6,7 +6,7 @@ Go Developer with 5+ years of experience building scalable microservices, secure
 
 Tech Stack:
 
-Backend & APIs: Golang, Gin, RESTful APIs, gRPC, JWT, RBAC, Swagger/OpenAPI  
+Backend & APIs: Golang, Python, Gin, RESTful APIs, gRPC, JWT, RBAC, Swagger/OpenAPI  
 Cloud & DevOps: AWS (EKS, ECS, RDS, Lambda, S3, CloudWatch), Docker, Kubernetes, Helm, Terraform, GitHub Actions  
 Messaging & Streaming: Apache Kafka, WebSockets  
 Monitoring & Logging: Prometheus, Grafana  
