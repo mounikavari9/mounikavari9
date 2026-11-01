@@ -26,7 +26,7 @@ What I Build:
 ---
 
  Contact:
-- LinkedIn: https://www.linkedin.com/in/mounikav09/  
+- LinkedIn: www.linkedin.com/in/mounikav2 
 - GitHub: https://github.com/mounikavari9
 
 ---
